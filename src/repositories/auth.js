@@ -1,4 +1,4 @@
-import { data } from "react-router-dom";
+
 import { supabase } from "../lib/supabase";
 
 export const authRepository = {
